@@ -118,7 +118,7 @@ pyinstaller --noconfirm --onefile --windowed ^
 
 ## 📄 الترخيص
 
-هذا المشروع مرخّص تحت **MIT License** — راجع ملف [LICENSE](LICENSE) للتفاصيل.
+هذا المشروع مرخّص تحت **انت الضامن** — راجع ملف [LICENSE](LICENSE) للتفاصيل.
 
 ---
 
