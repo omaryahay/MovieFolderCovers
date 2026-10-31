@@ -1,0 +1,2 @@
+# MovieFolderCovers
+Movie Folder Covers
